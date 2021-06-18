@@ -1,21 +1,23 @@
 
 # VMware Community Homelabs
 
-If you wish to submit your VMware homelab build of materials (BOM), please head over to [https://www.virtuallyghetto.com/homelab](https://www.virtuallyghetto.com/homelab). This page will be refreshed periodically based on all valid submissions. Here is a short URL to this page: [http://vmwa.re/homelab](http://vmwa.re/homelab)
+If you wish to submit your VMware homelab build of materials (BOM), please head over to [https://www.williamlam.com/homelab](https://www.williamlam.com/homelab). This page will be refreshed periodically based on all valid submissions. Here is a short URL to this page: [http://vmwa.re/homelab](http://vmwa.re/homelab)
 
 ## Statistics
 
-**Total Submissions:** 117
+**Total Submissions:** 123
 
-**Total Platforms:** (Intel: 108 AMD: 5 Both: 4)
+**Total Platforms:** (Intel: 113 AMD: 6 Both: 4)
 
 **Most Expensive Homelab:** $150,000
 
 **Most Frugal HomeLab:** $500
 
-**Most Average HomeLab:** $8,589
+**Most Average HomeLab without Marc Huppert:** $7,285
 
-*<font color="green">Last Generated on Sunday, February 7, 2021 9:28:31 AM</font>*
+**Most Average HomeLab:** $8,445
+
+*<font color="green">Last Generated on Friday, June 18, 2021 10:49:54 AM</font>*
 
 <br>
 
@@ -35,14 +37,14 @@ If you wish to submit your VMware homelab build of materials (BOM), please head 
 | 01/24/2020 | 03/16/2016 | William Lam | $800 | Intel | 1 | 10 | ESXi, vCenter Server, vSAN | https://www.virtuallyghetto.com/2016/03/vsan-6-2-vsphere-6-0-update-2-homelab-on-6th-gen-intel-nuc.html |
 | 01/24/2020 | 01/01/2005 | Brian Irvin | $4,000 | Intel | 6 | 12 | ESXi, vCenter Server, vSAN, vRealize Operations, vRealize Log Insight | https://www.dropbox.com/s/l7fzwcfmg4u3ts4/brians%20lab%20lom.docx?dl=0 |
 | 01/24/2020 | 09/20/2019 | Joao Grade | $1,100 | Intel | 1 | 5 | ESXi, vCenter Server, NSX-V, vRealize Operations, vRealize Log Insight, vRealize Automation | https://bityou.wordpress.com/2019/09/20/vmwarelab-1-first-thoughts/ |
-| 01/24/2020 | 01/12/2019 | Brian Kirkland | $6,400 | Intel | 4 | 73 | ESXi, vCenter Server, NSX-T, PKS | https://docs.google.com/spreadsheets/d/12gOf5rqy0ZtqDvfk4eNrV-xocaOVIR5W8WYo4NVOFxE |
 | 01/24/2020 | 12/21/2019 | Karl Widmer | $6,500 | Intel | 3 | 10 | ESXi, vCenter Server, vSAN | https://www.driftar.ch/index.php/2019/12/21/new-homelab-hardware-arrived/ |
+| 01/24/2020 | 01/12/2019 | Brian Kirkland | $6,400 | Intel | 4 | 73 | ESXi, vCenter Server, NSX-T, PKS | https://docs.google.com/spreadsheets/d/12gOf5rqy0ZtqDvfk4eNrV-xocaOVIR5W8WYo4NVOFxE |
 | 01/25/2020 | 05/01/2019 | Christian Loerner | $4,900 | Intel | 3 | 2 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Log Insight, vRealize Automation, HCX, PKS | https://cloerner.github.io/posts/running_a_homelab_in_2020/ |
 | 01/25/2020 | 01/01/2017 | Brad Lay | $40,000 | Both | 11 | 20 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, HCX | https://docs.google.com/spreadsheets/d/1Aj5EVni7yCfdl_3_ePXNkN2-_7RgfE7G01tj806XgK0/edit?usp=sharing |
 | 01/25/2020 | 01/04/2010 | Michael White | $10,808 | Intel | 4 | 20 | ESXi, vCenter Server, vRealize Operations, vRealize Log Insight, vRealize Automation, Horizon View | https://notesfrommwhite.net/2020/01/25/my-home-lab/ |
 | 01/25/2020 | 12/30/2014 | Joshua Hart | $62,000 | Intel | 11 | 130 | ESXi, vCenter Server, vSAN, NSX-V, vRealize Operations, vRealize Log Insight, vRealize Automation | https://docs.google.com/spreadsheets/d/e/2PACX-1vTBID0BPWWW6Y0zLtucj2t2G6lKubSkgW5z5ATwvFx5Z79Nupufwhhw07oath1GRoN_9GWqSczMugGb/pubhtml?gid=0&single=true |
-| 01/26/2020 | 12/06/2016 | Paul Braren | $2,600 | Intel | 1 | 8 | ESXi, vCenter Server, vRealize Log Insight | https://TinkerTry.com/my-tinkertry-d-xeon-d-bundle-2-supermicro-superserver-bundle-2-of-joy |
 | 01/26/2020 | 10/22/2019 | Cory Barker | $5,580 | Intel | 2 | 30 | ESXi, vCenter Server, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight | https://captainvops.com/2020/01/26/current-captainvops-homelab-2020/ |
+| 01/26/2020 | 12/06/2016 | Paul Braren | $2,600 | Intel | 1 | 8 | ESXi, vCenter Server, vRealize Log Insight | https://TinkerTry.com/my-tinkertry-d-xeon-d-bundle-2-supermicro-superserver-bundle-2-of-joy |
 | 01/27/2020 | 01/01/2017 | Cotje | $1,000 | Intel | 2 | 10 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, Horizon View, PKS, VMware Cloud Foundation/VMware Validated Design | http://extend.duckdns.org/BOM.txt |
 | 01/27/2020 | 12/01/2019 | Trent TeSelle | $1,200 | Intel | 1 | 2 | ESXi, vCenter Server, vRealize Log Insight, vRealize Automation | https://docs.google.com/spreadsheets/d/15gyTKfGkufeYhVOFmaES1tx2RR7A_Solqa4jGrzIO6M/edit?usp=sharing |
 | 01/28/2020 | 03/26/2018 | Max Abelardo | $4,250 | Intel | 4 | 12 | ESXi, vCenter Server, vSAN, NSX-V, vRealize Operations, vRealize Log Insight, vSphere Replication, Horizon View | https://communities.vmware.com/people/vmwmax/blog/2020/01/28/the-vsan-nuc-homelab-part-1-the-components |
@@ -57,14 +59,14 @@ If you wish to submit your VMware homelab build of materials (BOM), please head 
 | 02/03/2020 | 01/01/2001 | Marc Huppert | $150,000 | Intel | 20 | 500 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight, HCX, Site Recovery Manager, vSphere Replication, Horizon View, PKS | https://www.vcdx181.com/actual-state.html |
 | 02/03/2020 | 10/01/2019 | Benedikt Frenzel | $1,000 | Intel | 1 | 10 | ESXi, vCenter Server, NSX-T | https://ben-on-vms.com/homelab/ |
 | 02/03/2020 | 11/12/2006 | Erik Bussink | $66,600 | Intel | 14 | 100 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, HCX, vSphere Replication, Horizon View, PKS, VMware Cloud Foundation/VMware Validated Design | http://www.bussink.ch/ |
-| 02/04/2020 | 03/03/2017 | Tim Carman | $2,600 | Intel | 2 | 30 | ESXi, vCenter Server, vSAN, vRealize Log Insight | https://www.timcarman.net/home-lab/ |
+| 02/04/2020 | 01/29/2019 | Chris Samp | $2,900 | Intel | 1 | 25 | ESXi, vCenter Server, PKS | https://docs.google.com/document/d/1i5_FReDh4MfcgIeY6Ek0js6LcxS_HGBlTSLKPqjn-vk/edit?usp=sharing |
 | 02/04/2020 | 01/01/2019 | James McLeod | $4,500 | Intel | 2 | 60 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, Site Recovery Manager, vSphere Replication, Horizon View, PKS | https://onedrive.live.com/view.aspx?resid=4884E9264F2EE2B0!4054&ithint=file%2cdocx&authkey=!AD6wDFn0-Qm2xZ4 |
 | 02/04/2020 | 01/28/2019 | HUM | $3,120 | Intel | 3 | 2 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Automation, Horizon View | https://twitter.com/HUM1504/status/1089868644111257600 |
 | 02/04/2020 | 08/25/2018 | Gary Flynn | $4,000 | Intel | 3 | 5 | ESXi, vCenter Server, vSAN, vRealize Operations, vRealize Log Insight, vRealize Automation | https://garyflynn.com/technology/vmware/homelab-setup-part-1-intel-nuc/ |
 | 02/04/2020 | 08/27/2018 | Joel Sprague | $2,500 | Intel | 3 | 60 | ESXi, vCenter Server, vSAN | https://github.com/joelsprague/homelab/blob/master/README.md |
 | 02/04/2020 | 06/11/2014 | Pawel Piotrowski | $13,000 | Intel | 9 | 200 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, Site Recovery Manager, vSphere Replication, Horizon View | http://virtualvillage.cloud/?page_id=15 |
 | 02/04/2020 | 02/01/2019 | Johan van Amersfoort | $16,000 | Intel | 3 | 25 | ESXi, vCenter Server, vSAN, vRealize Operations, vRealize Log Insight, vRealize Automation, Horizon View | https://vhojan.nl/homelab-v1-0/ |
-| 02/04/2020 | 01/29/2019 | Chris Samp | $2,900 | Intel | 1 | 25 | ESXi, vCenter Server, PKS | https://docs.google.com/document/d/1i5_FReDh4MfcgIeY6Ek0js6LcxS_HGBlTSLKPqjn-vk/edit?usp=sharing |
+| 02/04/2020 | 03/03/2017 | Tim Carman | $2,600 | Intel | 2 | 30 | ESXi, vCenter Server, vSAN, vRealize Log Insight | https://www.timcarman.net/home-lab/ |
 | 02/05/2020 | 01/01/2020 | Steven Bright | $7,000 | Intel | 4 | 20 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, Site Recovery Manager, vSphere Replication | https://www.stevenbright.com/home-lab/ |
 | 02/06/2020 | 09/01/2016 | Manfred "Fred" Hofer | $10,000 | Intel | 6 | 40 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight, Horizon View | http://www.vbrain.info/homelab-in-2019/ |
 | 02/07/2020 | 06/01/2019 | Ivo Beerens | $3,000 | Intel | 2 | 15 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, Horizon View | https://www.ivobeerens.nl/2020/02/07/vmware-homelab-build-of-materials-and-configuration/ |
@@ -74,16 +76,16 @@ If you wish to submit your VMware homelab build of materials (BOM), please head 
 | 02/11/2020 | 03/12/2019 | Peter K | $2,750 | Intel | 3 | 7 | ESXi, vCenter Server, vSAN, vRealize Operations | https://geizhals.de/?cat=WL-1466485 |
 | 02/11/2020 | 06/01/2016 | Matt Villilo | $3,000 | Intel | 3 | 10 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Log Insight, Horizon View | https://docs.google.com/document/d/1hM38iSqE6wFMeTCSsnEyzqb7TkPaU3WmHFR8qeZwSaI/edit?usp=sharing |
 | 02/11/2020 | 05/07/2019 | Brett Kennelly | $7,000 | Intel | 2 | 0 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, VMware Cloud Foundation/VMware Validated Design | http://bmanone.com/2020/01/15/vsphere-6-7-home-lab-part-2-vsan-6-7-u3-2-node-hardware/ |
-| 02/12/2020 | 10/10/2015 | Matt Proud | $2,000 | Intel | 1 | 10 | ESXi, vCenter Server, NSX-T, PKS | https://docs.google.com/spreadsheets/d/1ZnavHnfptQqIc3k0Rd0wL_0fzfBrK2IuM8zf20jXAKY/edit?usp=sharing |
-| 02/12/2020 | 10/15/2019 | Matt Morton | $900 | Intel | 2 | 8 | ESXi, vCenter Server | http://ebbeh.com/homelab.txt |
 | 02/12/2020 | 06/01/2016 | Benjamin Houttuin | $3,000 | Intel | 1 | 15 | ESXi, vCenter Server | https://tinkertry.com/my-tinkertry-d-xeon-d-bundle-2-supermicro-superserver-bundle-2-of-joy |
 | 02/12/2020 | 11/05/2018 | Loh Wei Jun | $4,000 | Intel | 3 | 10 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations | https://wjloh.me/homelab/homelab-setup-v1/ |
-| 02/14/2020 | 07/19/2019 | Laurens van Duijn ITQ | $4,000 | Intel | 3 | 25 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, Horizon View, PKS, VMware Cloud Foundation/VMware Validated Design | https://itq.nl/the-itq-homelab-v3/ |
+| 02/12/2020 | 10/10/2015 | Matt Proud | $2,000 | Intel | 1 | 10 | ESXi, vCenter Server, NSX-T, PKS | https://docs.google.com/spreadsheets/d/1ZnavHnfptQqIc3k0Rd0wL_0fzfBrK2IuM8zf20jXAKY/edit?usp=sharing |
+| 02/12/2020 | 10/15/2019 | Matt Morton | $900 | Intel | 2 | 8 | ESXi, vCenter Server | http://ebbeh.com/homelab.txt |
 | 02/14/2020 | 01/01/2018 | Mischa Buijs | $3,000 | Intel | 1 | 30 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, HCX, Site Recovery Manager, vSphere Replication, PKS, VMware Cloud Foundation/VMware Validated Design | https://be-virtual.net/home-lab/home-lab-2018-lab-environment/ |
+| 02/14/2020 | 07/19/2019 | Laurens van Duijn ITQ | $4,000 | Intel | 3 | 25 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, Horizon View, PKS, VMware Cloud Foundation/VMware Validated Design | https://itq.nl/the-itq-homelab-v3/ |
 | 02/14/2020 | 01/01/2016 | Mischa Buijs | $4,000 | Intel | 2 | 20 | ESXi, vCenter Server, vRealize Log Insight | https://be-virtual.net/home-lab/home-lab-2016-current/ |
-| 02/15/2020 | 12/20/2018 | Eric Fourn | $4,000 | Intel | 3 | 10 | ESXi, vCenter Server, vSAN, vRealize Operations | http://www.vexperience.net/homelab-mise-a-jour/ |
-| 02/15/2020 | 02/15/2020 | Eric Shanks | $9,000 | Intel | 3 | 15 | ESXi, vCenter Server, vSAN, vRealize Operations, vRealize Automation, PKS | https://theithollow.com/2020/02/15/2020-home-lab/ |
 | 02/15/2020 | 05/31/2018 | Bob Morrison | $1,500 | Intel | 1 | 20 | ESXi, vCenter Server, vSAN | https://docs.google.com/document/d/1SQ7YtvTspNPQ5VOfcr1paRp49ysZSqnlTK9B14AZ_eI/edit?usp=sharing |
+| 02/15/2020 | 02/15/2020 | Eric Shanks | $9,000 | Intel | 3 | 15 | ESXi, vCenter Server, vSAN, vRealize Operations, vRealize Automation, PKS | https://theithollow.com/2020/02/15/2020-home-lab/ |
+| 02/15/2020 | 12/20/2018 | Eric Fourn | $4,000 | Intel | 3 | 10 | ESXi, vCenter Server, vSAN, vRealize Operations | http://www.vexperience.net/homelab-mise-a-jour/ |
 | 02/17/2020 | 02/01/2020 | Roch Norwa | $2,500 | Intel | 1 | 25 | ESXi, vCenter Server, NSX-V, vRealize Operations, vRealize Log Insight, vRealize Automation, Horizon View | https://digitalworkspace.blog/2019/02/20/yet-another-home-lab-story/ |
 | 02/17/2020 | 05/24/2019 | Kim Bottu | $3,250 | Intel | 1 | 4 | ESXi, vCenter Server, vSAN, NSX-V, vRealize Operations, vRealize Log Insight, vRealize Automation | http://vmusketeers.com/2019/09/22/homelab-part-2/ |
 | 02/17/2020 | 10/01/2019 | Dale McKay | $7,500 | Intel | 3 | 15 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, VMware Cloud Foundation/VMware Validated Design | https://onedrive.live.com/?authkey=%21AF1RAmCPbpIuoFc&cid=31D72D467887CD11&id=31D72D467887CD11%21269966&parId=31D72D467887CD11%21237843&o=OneUp |
@@ -108,13 +110,13 @@ If you wish to submit your VMware homelab build of materials (BOM), please head 
 | 04/04/2020 | 10/27/2017 | Patrik Kernstock | $22,000 | Intel | 6 | 80 | ESXi, vCenter Server, vSAN, NSX-V, vRealize Operations, vRealize Log Insight, Site Recovery Manager, vSphere Replication, Horizon View | https://patrik.kernstock.net/homelab/ |
 | 04/06/2020 | 03/28/2020 | Ryan Robb | $4,500 | Intel | 4 | 10 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, Horizon View, VMware Cloud Foundation/VMware Validated Design | https://www.legitvirt.com/2020/03/27/homelab-2020-the-plan-part-1/ |
 | 04/11/2020 | 01/01/2019 | Jon Etkins | $1,200 | Intel | 3 | 7 | ESXi, vCenter Server, vSAN | https://docs.google.com/document/d/1oqFyhv5M9kPi0GMk20TP_TK7QKadEuPLkQacj3VXWKw/edit?usp=sharing |
-| 04/15/2020 | 01/01/2018 | JD Wallace | $5,600 | Intel | 2 | 10 | ESXi, vCenter Server | https://www.jdwallace.com/post/homelab |
 | 04/15/2020 | 01/07/2017 | Fabio Irigoyen | $3,500 | Intel | 3 | 10 | ESXi, vCenter Server, vSAN, Horizon View | http://www.dusklab.ch |
+| 04/15/2020 | 01/01/2018 | JD Wallace | $5,600 | Intel | 2 | 10 | ESXi, vCenter Server | https://www.jdwallace.com/post/homelab |
 | 04/17/2020 | 04/16/2020 | Christopher Dooks | $5,000 | AMD | 1 | 5 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, Site Recovery Manager, vSphere Replication, VMware Cloud Foundation/VMware Validated Design | https://www.chrisdooks.com/2020/04/15/homelab-progression-from-supermicro-servers-to-vmware-workstation-to-whitebox-build/ |
 | 04/18/2020 | 02/29/2016 | Kyle McDonald | $1,000 | Intel | 3 | 15 | ESXi, vCenter Server, vSAN, vRealize Log Insight | https://kylemcdonald.com.au/home-lab/ |
-| 04/21/2020 | 04/08/2020 | Henrique Vicente | $1,100 | Intel | 1 | 10 | ESXi | https://henvic.dev/posts/homelab/ |
-| 04/21/2020 | 11/10/2019 | Iván García | $2,500 | Both | 3 | 5 | ESXi, vCenter Server, NSX-V, Horizon View | https://navicloud.wordpress.com/2020/04/21/mini-homelab/ |
 | 04/21/2020 | 10/20/2019 | Isuru Wijesinghe | $1,200 | AMD | 0 | 1 | ESXi, vCenter Server, vRealize Log Insight, Site Recovery Manager | https://www.iwadmin.info/2019/12/setup-home-lab-using-desktop-pc.html |
+| 04/21/2020 | 11/10/2019 | Iván García | $2,500 | Both | 3 | 5 | ESXi, vCenter Server, NSX-V, Horizon View | https://navicloud.wordpress.com/2020/04/21/mini-homelab/ |
+| 04/21/2020 | 04/08/2020 | Henrique Vicente | $1,100 | Intel | 1 | 10 | ESXi | https://henvic.dev/posts/homelab/ |
 | 04/22/2020 | 08/20/2018 | Paul Braren | $6,000 | Intel | 3 | 30 | ESXi, vCenter Server, vSAN, vRealize Log Insight | https://TinkerTry.com/superservers |
 | 05/16/2020 | 02/01/2018 | Sven (@KswttrSvn) | $5,200 | Intel | 3 | 15 | ESXi, vCenter Server, vSAN | https://docs.google.com/spreadsheets/d/1soAQTpcCITcK70gNEk-HStK-Dn51Kaf0yl107Vt2JCI/edit?usp=sharing |
 | 06/06/2020 | 05/11/2020 | Mike | $1,500 | Intel | 1 | 5 | ESXi, vCenter Server | https://www.reddit.com/r/homelab/comments/gxqj62/shuttle_xpc_sh370r8_esxi_home_lab/ |
@@ -127,8 +129,8 @@ If you wish to submit your VMware homelab build of materials (BOM), please head 
 | 09/17/2020 | 12/31/2017 | Nathan Ambrose Barry | $1,200 | Both | 1 | 30 | ESXi, vCenter Server, vSAN, Site Recovery Manager, vSphere Replication | https://nabarry.com/posts/freedos-for-vcap/ |
 | 10/14/2020 | 10/01/2020 | Erik Ableson | $11,000 | Intel | 5 | 50 | ESXi, vCenter Server, vSAN, NSX-T | https://www.infrageeks.com/blog/mobile-lab-v2-part-1 |
 | 11/14/2020 | 11/07/2020 | Matt Menkowski | $1,058 | Intel | 1 | 17 | ESXi, vCenter Server, NSX-V, vRealize Operations, vRealize Log Insight | https://vmscribble.com/esxi/lenovo-ideacentre-mini-5i-01imh05-desktop-esxi-7-0-u1/ |
-| 11/29/2020 | 11/24/2020 | Laurens van Duijn | $4,500 | Intel | 6 | 30 | ESXi, vCenter Server, vSAN, NSX-T, Horizon View, PKS, VMware Cloud Foundation/VMware Validated Design | https://www.rawworks.nl/home/blog/raw-homelabs/ |
 | 11/29/2020 | 10/29/2019 | Carl Webster | $90,000 | Intel | 6 | 16 | ESXi, vCenter Server, Horizon View | https://carlwebster.com/a-look-inside-websters-lab-and-memories-of-sir-simon-the-keeper-of-websters-lab-october-2020/ |
+| 11/29/2020 | 11/24/2020 | Laurens van Duijn | $4,500 | Intel | 6 | 30 | ESXi, vCenter Server, vSAN, NSX-T, Horizon View, PKS, VMware Cloud Foundation/VMware Validated Design | https://www.rawworks.nl/home/blog/raw-homelabs/ |
 | 12/01/2020 | 05/25/2020 | Tina Krogull | $1,600 | Intel | 3 | 3 | ESXi, vCenter Server, vSAN, vRealize Operations | https://www.iamonit.de/home-lab-vsphere-home-lab-build-on-intel-nuc/ |
 | 12/13/2020 | 11/01/2018 | Michael Rebmann | $2,080 | Intel | 3 | 50 | ESXi, vCenter Server, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, HCX, Horizon View | https://www.cloud13.ch/supermicro-home-lab/ |
 | 12/13/2020 | 12/01/2020 | Wesley Geelhoed | $4,500 | Intel | 3 | 15 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, HCX, Site Recovery Manager, vSphere Replication, Horizon View, PKS, VMware Cloud Foundation/VMware Validated Design | https://wesleygeelhoed.nl/2020/12/13/my-current-homelab-setup/ |
@@ -138,4 +140,10 @@ If you wish to submit your VMware homelab build of materials (BOM), please head 
 | 01/17/2021 | 01/01/2008 | Stanislav Musil | $12,000 | Intel | 10 | 77 | ESXi, vCenter Server, vSAN, NSX-V, NSX-T, vRealize Operations, vRealize Log Insight, vSphere Replication | https://vpxd.dc5.cz/index.php/2021/01/17/homelab-2021/ |
 | 01/25/2021 | 05/01/2020 | JW | $1,850 | Intel | 3 | 4 | ESXi, vCenter Server, vSAN | https://jw86.medium.com/vmware-vsan-home-lab-part-1-14f101612e60 |
 | 02/05/2021 | 11/27/2020 | Alex Ackerman | $4,000 | Intel | 2 | 20 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Log Insight, Horizon View | https://www.vmhomelab.org/2020/12/homelab-components/ |
+| 02/17/2021 | 01/31/2020 | Partheeban Kandasamy | $4,000 | Intel | 5 | 25 | ESXi, vCenter Server, vSAN, NSX-T, Horizon View | https://cloudtekki.com/post/homelab-2021/ |
+| 02/22/2021 | 02/01/2021 | Nils Kristiansen | $2,500 | Intel | 2 | 0 | ESXi, vCenter Server, vSAN, NSX-T | https://cybernils.net/2021/02/18/introduction-to-my-labs/ |
+| 03/06/2021 | 08/15/2020 | Kaliyan Selvaraj | $1,400 | Intel | 2 | 20 | ESXi, vCenter Server, vSAN, vRealize Operations, vRealize Log Insight, Horizon View | http://kaliyansitpro.com/2021/03/06/my-home-lab-specifications/ |
+| 03/13/2021 | 03/13/2021 | Derek Seaman | $11,000 | Intel | 1 | 20 | ESXi, vCenter Server, NSX-T, vRealize Operations, vRealize Log Insight, vRealize Automation, VMware Cloud Foundation/VMware Validated Design | https://www.derekseaman.com/2021/03/home-lab-mikrotik-ccr2004-and-crs317-configuration.html |
+| 03/16/2021 | 12/01/2020 | Rudolf Kleijwegt | $2,000 | Intel | 1 | 5 | ESXi, vCenter Server, NSX-V, vRealize Operations | https://vcloudvision.com/2021/03/16/building-a-homelab-part-2/ |
+| 04/09/2021 | 11/25/2020 | Maarten Van Driessen | $13,000 | AMD | 4 | 20 | ESXi, vCenter Server, vSAN, NSX-T, vRealize Operations, vRealize Log Insight | https://www.brisk-it.net/homelab-2021/ |
 
