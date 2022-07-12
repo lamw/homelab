@@ -160,4 +160,4 @@ If you wish to submit your VMware homelab build of materials (BOM), please head 
 | 03/27/2022 | 12/01/2020 | Carlos Guadalupe | $6,500 | Intel | 3 | 16 | ESXi, vCenter Server, vSAN, vRealize Operations | https://kit.co/clgz2002/vmware-home-lab-with-intel-nuc |
 | 05/09/2022 | 01/01/1996 | Jason Boche | $10,000 | Intel | 2 | 46 | ESXi, vCenter Server, NSX-T, Horizon View | http://www.boche.net/blog/lab/ |
 | 05/10/2022 | 06/01/2005 | Jeff Newman | $20,000 | Intel | 9 | 0 | ESXi, vCenter Server, vSAN, vRealize Operations, vRealize Log Insight, Site Recovery Manager, vSphere Replication, Horizon View | https://imgur.com/y03YtHu |
-
+| 07/12/2022 | 07/12/2022 | Matt Adam | $4,000 | AMD | 2 | 10 | ESXi, vCenter Server, vSAN, NSX-T, Avi, WCP, 1 Guest Cluster, AKO | https://mattadam.com/2022/06/29/home-lab-supermicro-home-lab-components/ |
