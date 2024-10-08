@@ -1,7 +1,7 @@
 
 # VMware Community Homelabs
 
-If you wish to submit your VMware homelab build of materials (BOM), please head over to [https://www.williamlam.com/homelab](https://www.williamlam.com/homelab). This page will be refreshed periodically based on all valid submissions. Here is a short URL to this page: [http://vmwa.re/homelab](http://vmwa.re/homelab)
+If you wish to submit your VMware homelab build of materials (BOM), please head over to [https://www.williamlam.com/homelab](https://www.williamlam.com/homelab). This page will be refreshed periodically based on all valid submissions. Here is a short URL to this page: [https://lamw.github.io/homelab/](https://lamw.github.io/homelab/)
 
 ## Statistics
 
